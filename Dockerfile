@@ -8,9 +8,6 @@ WORKDIR /src
 
 ENV PYTHONONBUFFERED=1
 
-# expose port
-EXPOSE 5000
-
 # copy the dependencies file to the working directory
 
 COPY src/requirements.txt .
