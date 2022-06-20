@@ -1,7 +1,6 @@
 fastai
 matplotlib
 numpy
-opencv-python
 pandas
 seaborn
 pytesseract
